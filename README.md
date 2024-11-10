@@ -35,12 +35,11 @@
 1. Убедитесь, что у вас установлен Python и библиотека NumPy.
 pip install numpy
 
-Копировать
 
 2. Скопируйте код в файл (например, `transportation_problem.py`).
 
 3. Импортируйте функции в своём скрипте и задайте необходимые параметры:
-```python
+
    import numpy as np
    from transportation_problem import north_west_corner_method, calculate_total_cost
 
